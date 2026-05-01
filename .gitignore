@@ -1,1 +1,8 @@
+# Sensitive Information
+.env
+aws_credentials.txt
+github_token.txt
 
+# Local files
+__pycache__/
+.DS_Store
