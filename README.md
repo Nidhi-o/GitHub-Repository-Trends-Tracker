@@ -17,7 +17,7 @@ The system follows a **Cloud-Native, Serverless** design:
 - **Cost Optimization:** Utilized **Parquet** and **S3 Partitioning** to reduce query scan costs by 90%.
 
 ## 📊 Dashboard Preview
-![Metabase Dashboard](assets/dashboard_screenshot.png)
+![Metabase Dashboard](assets/dashboard.pdf)
 
 ## 🧰 Tech Stack
 - **Cloud:** AWS (S3, Glue, Athena, Lambda)
